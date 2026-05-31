@@ -1,1 +1,3 @@
-console.log("Portfolio Website Loaded");
+function showMessage(){
+    alert("Thank you for visiting my portfolio!");
+}
